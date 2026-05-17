@@ -2,8 +2,8 @@
   "name": "vuln-test",
   "version": "1.0.0",
   "dependencies": {
-    "lodash": "4.17.11",
-    "minimist": "0.0.8",
-    "jquery": "3.4.0"
+    "jquery": "^3.7.1",
+    "lodash": "^4.18.1",
+    "minimist": "^1.2.8"
   }
 }
